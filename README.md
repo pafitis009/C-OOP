@@ -1,4 +1,4 @@
-# C-OOP
+# C++ -OOP
 In this project, we siumulate the process of the operation of a School. We simulate the entrance of the students and teachers in the school, their process of going in the class by firstly entering the school, then through the yard, climbing the stairs, entering the floor, walking the corridor and ariving to the class. 
 
 
